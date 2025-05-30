@@ -1,4 +1,4 @@
-# Reflection
+# Reflection on Hello Minikube
 
 ### Application logs before vs. after exposing as a Service
 
@@ -16,3 +16,4 @@ By default, kubectl get pods or kubectl get services uses the default. All objec
 
 ![img3](images/pic3.png)
 
+# Reflection on Hello Minikube
